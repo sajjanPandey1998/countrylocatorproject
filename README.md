@@ -15,9 +15,8 @@
 
 
      Dependencies ->
-                    1>Jts-Core  
-                    2>j-unit-Jupiter-engine
-                    3>  j-unit-Plateform-runner   
+                    
+                    1>  j-unit-  
                         
 
    Classes  ->
